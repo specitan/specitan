@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hey there! It's me `specitan`! 👻
 
-<!--
-**specitan/specitan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I code in a variety of languages, so let's keep it simple.
 
-Here are some ideas to get you started:
+I live in NYC, and I love coding and I especially love messing with API's!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Some projects I have done/have been doing:**
+
+<li>An API Wrapper for the MTA</li>
+
+<li>A discord bot focused on tracking buses, tracking routes and stop codes based entirely around the MTA.</li>
+
+<li>A command handler package for Discord.JS v14</li>
+<br>
+
+The languages I code in are: 
+
+**<li>Javascript</li>**
+**<li>Typescript</li>**
+**<li>HTML</li>**
+**<li>Node</li>**
