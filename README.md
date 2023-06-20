@@ -6,12 +6,7 @@ I live in NYC, and I love coding and I especially love messing with API's!
 
 **Some projects I have done/have been doing:**
 
-<li>An API Wrapper for the MTA</li>
-
-<li>A discord bot focused on tracking buses, tracking routes and stop codes based entirely around the MTA.</li>
-
-<li>A command handler package for Discord.JS v14</li>
-<br>
+<li>N/A atm.</li>
 
 The languages I code in are: 
 
